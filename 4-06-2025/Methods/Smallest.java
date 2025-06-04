@@ -1,4 +1,4 @@
-// finfing out the smallest number among three in java using methods 
+// finding out the smallest number among three in java using methods 
 
 import java.util.Scanner;
 class Smallest{
